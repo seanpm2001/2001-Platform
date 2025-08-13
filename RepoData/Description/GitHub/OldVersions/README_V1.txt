@@ -1,0 +1,1 @@
+2️⃣️0️⃣️0️⃣️1️⃣️🌉️💾️ The official source repository for the 2001 Platform, a custom image of Seanpm2001, SeanWallaWalla, and Seanspokane2015 projects. Inspired by the CatsEye Technologies Platform, and the Haskell Platform.
